@@ -1,0 +1,870 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cabi
+</name>
+</assembly>
+<members>
+<member name="M:WpfApplication1.EmployeeTracker.BlankBanner.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:WpfApplication1.BankCash_G2Types.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash_G2Types">
+	<summary>
+BankCash_G2Types
+</summary>
+</member><member name="M:WpfApplication1.Groups.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Groups">
+	<summary>
+Groups
+</summary>
+</member><member name="M:WpfApplication1.RPT25.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT25">
+	<summary>
+RPT25
+</summary>
+</member><member name="M:WpfApplication1.EmployeeTracker.Banner.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:WpfApplication1.KMHelp.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.KMHelp">
+	<summary>
+KMHelp
+</summary>
+</member><member name="M:WpfApplication1.Items.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Items">
+	<summary>
+Items
+</summary>
+</member><member name="M:WpfApplication1.Sales.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Sales">
+	<summary>
+Sales
+</summary>
+</member><member name="M:WpfApplication1.RPT26.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT26">
+	<summary>
+RPT26
+</summary>
+</member><member name="M:WpfApplication1.Statics.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Statics">
+	<summary>
+Statics
+</summary>
+</member><member name="M:WpfApplication1.RPT4.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT4">
+	<summary>
+RPT4
+</summary>
+</member><member name="M:WpfApplication1.PCs.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.PCs">
+	<summary>
+PCs
+</summary>
+</member><member name="M:WpfApplication1.BasicForm2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BasicForm2">
+	<summary>
+BasicForm2
+</summary>
+</member><member name="M:WpfApplication1.Attachments.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Attachments">
+	<summary>
+Attachments
+</summary>
+</member><member name="M:WpfApplication1.OrderStates.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.OrderStates">
+	<summary>
+OrderStates
+</summary>
+</member><member name="M:WpfApplication1.RPT27.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT27">
+	<summary>
+RPT27
+</summary>
+</member><member name="M:WpfApplication1.RPT17.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT17">
+	<summary>
+RPT17
+</summary>
+</member><member name="M:WpfApplication1.UltreSound.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.UltreSound">
+	<summary>
+UltreSound
+</summary>
+</member><member name="M:WpfApplication1.DirectBonusCut.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.DirectBonusCut">
+	<summary>
+DirectBonusCut
+</summary>
+</member><member name="M:WpfApplication1.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:WpfApplication1.BasicForm3.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BasicForm3">
+	<summary>
+BasicForm3
+</summary>
+</member><member name="M:WpfApplication1.Cars.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Cars">
+	<summary>
+Cars
+</summary>
+</member><member name="M:WpfApplication1.RPT28.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT28">
+	<summary>
+RPT28
+</summary>
+</member><member name="M:WpfApplication1.MyWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MyWindow">
+	<summary>
+MyWindow
+</summary>
+</member><member name="M:WpfApplication1.PreChat.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.PreChat">
+	<summary>
+PreChat
+</summary>
+</member><member name="M:WpfApplication1.RPT29.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT29">
+	<summary>
+RPT29
+</summary>
+</member><member name="M:WpfApplication1.HelpMultiColumns.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.HelpMultiColumns">
+	<summary>
+HelpMultiColumns
+</summary>
+</member><member name="M:WpfApplication1.RPT19.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT19">
+	<summary>
+RPT19
+</summary>
+</member><member name="M:WpfApplication1.LeaveRequests2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.LeaveRequests2">
+	<summary>
+LeaveRequests2
+</summary>
+</member><member name="M:WpfApplication1.RPT7.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT7">
+	<summary>
+RPT7
+</summary>
+</member><member name="M:WpfApplication1.CreditsDebits.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CreditsDebits">
+	<summary>
+CreditsDebits
+</summary>
+</member><member name="M:WpfApplication1.BasicForm.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BasicForm">
+	<summary>
+BasicForm
+</summary>
+</member><member name="M:WpfApplication1.BasicForm1_2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BasicForm1_2">
+	<summary>
+BasicForm1_2
+</summary>
+</member><member name="M:WpfApplication1.ItemComponants.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ItemComponants">
+	<summary>
+ItemComponants
+</summary>
+</member><member name="M:WpfApplication1.Plan.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Plan">
+	<summary>
+Plan
+</summary>
+</member><member name="M:WpfApplication1.Login.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Login">
+	<summary>
+Login
+</summary>
+</member><member name="M:WpfApplication1.CloseForm.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CloseForm">
+	<summary>
+CloseForm
+</summary>
+</member><member name="M:WpfApplication1.BasicForm1_3.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BasicForm1_3">
+	<summary>
+BasicForm1_3
+</summary>
+</member><member name="M:WpfApplication1.RPT9.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT9">
+	<summary>
+RPT9
+</summary>
+</member><member name="M:WpfApplication1.Towns.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Towns">
+	<summary>
+Towns
+</summary>
+</member><member name="M:WpfApplication1.ChangeCheckNo.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ChangeCheckNo">
+	<summary>
+ChangeCheckNo
+</summary>
+</member><member name="M:WpfApplication1.HelpMultiColumns2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.HelpMultiColumns2">
+	<summary>
+HelpMultiColumns2
+</summary>
+</member><member name="M:WpfApplication1.Entry2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Entry2">
+	<summary>
+Entry2
+</summary>
+</member><member name="M:WpfApplication1.MyScrollViewer.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MyScrollViewer">
+	<summary>
+MyScrollViewer
+</summary>
+</member><member name="M:WpfApplication1.EmpComplaints.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.EmpComplaints">
+	<summary>
+EmpComplaints
+</summary>
+</member><member name="M:WpfApplication1.HelpCustomers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.HelpCustomers">
+	<summary>
+HelpCustomers
+</summary>
+</member><member name="M:WpfApplication1.TranslateTextAnimationExample.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.TranslateTextAnimationExample">
+	<summary>
+TranslateTextAnimationExample
+</summary>
+</member><member name="M:WpfApplication1.ChangePassword.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ChangePassword">
+	<summary>
+ChangePassword
+</summary>
+</member><member name="M:WpfApplication1.ChangeItemId.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ChangeItemId">
+	<summary>
+ChangeItemId
+</summary>
+</member><member name="M:WpfApplication1.MyDialog.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MyDialog">
+	<summary>
+MyDialog
+</summary>
+</member><member name="M:WpfApplication1.Loans.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Loans">
+	<summary>
+Loans
+</summary>
+</member><member name="M:WpfApplication1.DriversSellers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.DriversSellers">
+	<summary>
+DriversSellers
+</summary>
+</member><member name="M:WpfApplication1.TranslateText.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.TranslateText">
+	<summary>
+TranslateText
+</summary>
+</member><member name="M:WpfApplication1.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:WpfApplication1.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:WpfApplication1.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:WpfApplication1.ChecksTracingNew.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ChecksTracingNew">
+	<summary>
+ChecksTracingNew
+</summary>
+</member><member name="M:WpfApplication1.CallerBalance.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CallerBalance">
+	<summary>
+CallerBalance
+</summary>
+</member><member name="M:WpfApplication1.TimePicker.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.TimePicker">
+	<summary>
+TimePicker
+</summary>
+</member><member name="M:WpfApplication1.Chart.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Chart">
+	<summary>
+Chart
+</summary>
+</member><member name="M:WpfApplication1.CallCenter.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CallCenter">
+	<summary>
+CallCenter
+</summary>
+</member><member name="M:WpfApplication1.CallCenterEvaluation.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CallCenterEvaluation">
+	<summary>
+CallCenterEvaluation
+</summary>
+</member><member name="M:WpfApplication1.JobEvaluationQuestions.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.JobEvaluationQuestions">
+	<summary>
+JobEvaluationQuestions
+</summary>
+</member><member name="M:WpfApplication1.Degrees.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Degrees">
+	<summary>
+Degrees
+</summary>
+</member><member name="M:WpfApplication1.Schedule.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Schedule">
+	<summary>
+Schedule
+</summary>
+</member><member name="M:WpfApplication1.RPT31.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT31">
+	<summary>
+RPT31
+</summary>
+</member><member name="M:WpfApplication1.RPT20.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT20">
+	<summary>
+RPT20
+</summary>
+</member><member name="M:WpfApplication1.PrintParcodeGrid.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.PrintParcodeGrid">
+	<summary>
+PrintParcodeGrid
+</summary>
+</member><member name="M:WpfApplication1.EditAttendance.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.EditAttendance">
+	<summary>
+EditAttendance
+</summary>
+</member><member name="M:WpfApplication1.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MainPage">
+	<summary>
+MainPage
+</summary>
+</member><member name="M:WpfApplication1.BankCash_G2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash_G2">
+	<summary>
+BankCash_G2
+</summary>
+</member><member name="M:WpfApplication1.Companies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Companies">
+	<summary>
+Companies
+</summary>
+</member><member name="M:WpfApplication1.EmpCloseShift.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.EmpCloseShift">
+	<summary>
+EmpCloseShift
+</summary>
+</member><member name="M:WpfApplication1.PlanSub.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.PlanSub">
+	<summary>
+PlanSub
+</summary>
+</member><member name="M:WpfApplication1.RPT21.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT21">
+	<summary>
+RPT21
+</summary>
+</member><member name="M:WpfApplication1.Entry.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Entry">
+	<summary>
+Entry
+</summary>
+</member><member name="M:WpfApplication1.RPT11.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT11">
+	<summary>
+RPT11
+</summary>
+</member><member name="M:WpfApplication1.LeaveRequests.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.LeaveRequests">
+	<summary>
+LeaveRequests
+</summary>
+</member><member name="M:WpfApplication1.Levels.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Levels">
+	<summary>
+Levels
+</summary>
+</member><member name="M:WpfApplication1.Employees.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Employees">
+	<summary>
+Employees
+</summary>
+</member><member name="M:WpfApplication1.MSG.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MSG">
+	<summary>
+MSG
+</summary>
+</member><member name="M:WpfApplication1.CalcSalary.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CalcSalary">
+	<summary>
+CalcSalary
+</summary>
+</member><member name="M:WpfApplication1.BankCash2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash2">
+	<summary>
+BankCash2
+</summary>
+</member><member name="M:WpfApplication1.BankCash_G.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash_G">
+	<summary>
+BankCash_G
+</summary>
+</member><member name="M:WpfApplication1.BankCash_G3.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash_G3">
+	<summary>
+BankCash_G3
+</summary>
+</member><member name="M:WpfApplication1.ChecksTracing.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ChecksTracing">
+	<summary>
+ChecksTracing
+</summary>
+</member><member name="M:WpfApplication1.EmpOutcome.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.EmpOutcome">
+	<summary>
+EmpOutcome
+</summary>
+</member><member name="M:WpfApplication1.RPT22.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT22">
+	<summary>
+RPT22
+</summary>
+</member><member name="M:WpfApplication1.Income.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Income">
+	<summary>
+Income
+</summary>
+</member><member name="M:WpfApplication1.Help.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Help">
+	<summary>
+Help
+</summary>
+</member><member name="M:WpfApplication1.EmployeeTracker.BannerHeader.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.EmployeeTracker.BannerHeader">
+	<summary>
+BannerHeader
+</summary>
+</member><member name="M:WpfApplication1.RPT1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT1">
+	<summary>
+RPT1
+</summary>
+</member><member name="M:WpfApplication1.EmpShifts.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.EmpShifts">
+	<summary>
+EmpShifts
+</summary>
+</member><member name="M:WpfApplication1.CostCenters.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CostCenters">
+	<summary>
+CostCenters
+</summary>
+</member><member name="M:WpfApplication1.OfficialHolidays.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.OfficialHolidays">
+	<summary>
+OfficialHolidays
+</summary>
+</member><member name="M:WpfApplication1.Suppliers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Suppliers">
+	<summary>
+Suppliers
+</summary>
+</member><member name="M:WpfApplication1.BankCash.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash">
+	<summary>
+BankCash
+</summary>
+</member><member name="M:WpfApplication1.BankCash4.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.BankCash4">
+	<summary>
+BankCash4
+</summary>
+</member><member name="M:WpfApplication1.TripPrices.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.TripPrices">
+	<summary>
+TripPrices
+</summary>
+</member><member name="M:WpfApplication1.MyImages.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MyImages">
+	<summary>
+MyImages
+</summary>
+</member><member name="M:WpfApplication1.RPT14.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT14">
+	<summary>
+RPT14
+</summary>
+</member><member name="M:WpfApplication1.RPT2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.RPT2">
+	<summary>
+RPT2
+</summary>
+</member><member name="M:WpfApplication1.Customers.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.Customers">
+	<summary>
+Customers
+</summary>
+</member><member name="M:WpfApplication1.PhoneIndex.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.PhoneIndex">
+	<summary>
+PhoneIndex
+</summary>
+</member><member name="T:WpfApplication1.EmployeeTracker.BlankBanner">
+	<summary>
+ Interaction logic for '.xaml
+ </summary>
+</member><member name="P:WpfApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WpfApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WpfApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:WpfApplication1.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:WpfApplication1.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:WpfApplication1.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:WpfApplication1.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:WpfApplication1.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:WpfApplication1.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="T:WpfApplication1.EmployeeTracker.Banner">
+	<summary>
+ Interaction logic for Banner.xaml
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout Name="Metro Style" Image="/Windows/Win8Logo.jpg"/>
+	<layout Name="Desktop Style" Image="/Windows/Win7Logo.jpg"/>
+</layouts>
+

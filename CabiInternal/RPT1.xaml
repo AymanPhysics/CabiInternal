@@ -1,0 +1,139 @@
+﻿<UserControl x:Class="RPT1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="419.436" d:DesignWidth="603">
+    <Grid Background="{DynamicResource Bg}">
+        <Grid Margin="13,19,14,59">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0" />
+                    <GradientStop Color="Red" Offset="1" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" IsReadOnly="True" IsTabStop="False" Margin="267,178,25,135" MaxLength="100" x:Name="EmpName" TabIndex="1" VerticalAlignment="Center" Width="284">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label BorderThickness="1" Content="Employee"  Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,178,438,135" x:Name="lblEmpId" UseLayoutRounding="True" VerticalAlignment="Center" Width="120" />
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" Margin="144,178,314,135" MaxLength="10" x:Name="EmpId" TabIndex="0" VerticalAlignment="Center" Width="118">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label BorderThickness="1" Content="From date"  Height="28" HorizontalContentAlignment="Center" Margin="18,276,438,37" x:Name="lblFromDate" UseLayoutRounding="True" Width="120" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <DatePicker FirstDayOfWeek="Saturday" Height="28" Margin="144,276,303,37" x:Name="FromDate" TabIndex="3" Width="129" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <Label BorderThickness="1" Content="To Date"  Height="28" HorizontalContentAlignment="Center" Margin="305,276,151,37" x:Name="lblToDate" UseLayoutRounding="True" Width="120" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <DatePicker FirstDayOfWeek="Saturday" Height="28" Margin="431,276,16,37" x:Name="ToDate" TabIndex="4" Width="129" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <CheckBox Content="تفصيلي" Height="16" HorizontalAlignment="Center" x:Name="IsDetailed" TabIndex="14" VerticalAlignment="Center" Width="129" Margin="144,320,303,5" />
+            <Label Content="Category" Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,44,438,269" x:Name="lblCategoryId" UseLayoutRounding="True" VerticalAlignment="Center" Width="120"  BorderThickness="1" BorderBrush="#FF078200" />
+            <ComboBox Height="28" HorizontalAlignment="Center" IsSynchronizedWithCurrentItem="{x:Null}" Margin="144,44,24,269" x:Name="CategoryId" TabIndex="0" VerticalAlignment="Center" Width="408" IsEditable="False">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+
+            </ComboBox>
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" IsReadOnly="True" IsTabStop="False" Margin="267,244,25,69" MaxLength="100" x:Name="CallerName" TabIndex="1" VerticalAlignment="Center" Width="284">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label BorderThickness="1" Content="Caller"  Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,244,438,69" x:Name="lblCallerId" UseLayoutRounding="True" VerticalAlignment="Center" Width="120" />
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" Margin="144,244,314,69" MaxLength="100" x:Name="CallerId" TabIndex="0" VerticalAlignment="Center" Width="118">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label BorderThickness="1" Content="Order No"  Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,12,438,301" x:Name="lblOrderNo" UseLayoutRounding="True" VerticalAlignment="Center" Width="120" />
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" Margin="144,12,314,301" MaxLength="10" x:Name="OrderNo" TabIndex="0" VerticalAlignment="Center" Width="118">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" IsReadOnly="True" IsTabStop="False" Margin="267,210,25,103" MaxLength="100" x:Name="DeliverymanName" TabIndex="1" VerticalAlignment="Center" Width="284">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label BorderThickness="1" Content="Delivery man"  Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,210,438,103" x:Name="lblDeliverymanId" UseLayoutRounding="True" VerticalAlignment="Center" Width="120" />
+            <TextBox AutoWordSelection="True" Height="28" HorizontalAlignment="Center" Margin="144,210,314,103" MaxLength="10" x:Name="DeliverymanId" TabIndex="0" VerticalAlignment="Center" Width="118">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label Content="Shift" Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,144,438,169" x:Name="lblShiftId" UseLayoutRounding="True" VerticalAlignment="Center" Width="120"  BorderThickness="1" BorderBrush="#FF078200" />
+            <ComboBox Height="28" HorizontalAlignment="Center" IsSynchronizedWithCurrentItem="{x:Null}" Margin="144,144,24,169" x:Name="ShiftId" TabIndex="0" VerticalAlignment="Center" Width="408" IsEditable="False">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+
+            </ComboBox>
+            <Label Content="Car \ Bike" Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="18,78,438,235" x:Name="lblCarId" UseLayoutRounding="True" VerticalAlignment="Center" Width="120"  BorderThickness="1" BorderBrush="#FF078200" />
+            <ComboBox Height="28" HorizontalAlignment="Center" IsSynchronizedWithCurrentItem="{x:Null}" Margin="144,78,24,235" x:Name="CarId" TabIndex="0" VerticalAlignment="Center" Width="408" IsEditable="False"  ItemsSource="{Binding}" >
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Fill="{Binding State}" Width="16" Height="16" Margin="0,2,5,2" />
+                            <TextBlock Text="{Binding Name}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+
+            </ComboBox>
+            <TextBox AutoWordSelection="True" Height="28" IsReadOnly="True" IsTabStop="False" Margin="230,111,24,202" MaxLength="100" x:Name="CarOtherName" TabIndex="1" Width="322" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <Label BorderThickness="1" Content="External"  Height="28" HorizontalContentAlignment="Center" Margin="18,111,438,202" x:Name="lblCarOtherId" UseLayoutRounding="True" Width="120" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+            <TextBox AutoWordSelection="True" Height="28" Margin="144,111,354,202" MaxLength="10" x:Name="CarOtherId" TabIndex="12" Width="78" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FFFFFF6E" Offset="1" />
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+        </Grid>
+        <Button Content="Calculate" HorizontalAlignment="Center"  Name="Button2" TabIndex="20" VerticalAlignment="Bottom" Width="380" Margin="12,0,12,9" Style="{StaticResource GlossyCloseButton}" Height="44" Foreground="Black" Background="{DynamicResource BgSave}"/>
+    </Grid>
+</UserControl>
